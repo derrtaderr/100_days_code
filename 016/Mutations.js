@@ -10,3 +10,5 @@ function mutation(arr) {
         .indexOf(letter) != -1;
     });
 }
+
+    mutation(["hello", "hey"]);
